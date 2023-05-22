@@ -9,7 +9,7 @@
       }
 ,
       {
-         "name": "TH-TRUE-01",
+         "name": "TH-TRUE-02",
          "url": "https://raw.githubusercontent.com/sangman007/apptest/main/1inet2.ovpn"
       }
 
@@ -20,5 +20,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":1.01
+   "version":1.02
 }
